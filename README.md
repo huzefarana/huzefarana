@@ -13,3 +13,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p>Inspired by<a href="http://github.com/au79912"> Ayihan</a></p>
