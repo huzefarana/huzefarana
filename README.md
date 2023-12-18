@@ -15,5 +15,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huzefarana&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-<p>Inspired by<a href="http://github.com/au79912"> Ayihan</a></p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br/>
+Inspired by [Ayihan](http://github.com/au79912)
