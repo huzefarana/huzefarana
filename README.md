@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate Software Developer and Machine Learning enthusiast.
+🚀 Passionate Software Developer and Machine Learning enthusiast
 
 🌱 I’m currently learning how to center a div.
 
