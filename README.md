@@ -16,4 +16,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br/>
-Inspired by [Ayihan](http://github.com/au79912)
+Markdown inspired by [Ayihan](http://github.com/au79912)
