@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate Software Developer and DeveOps Engineer
+🚀 Passionate Software Developer and DevOps Engineer
 
 🌱 I’m currently learning
 
