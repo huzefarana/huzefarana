@@ -1,7 +1,10 @@
 # 💫 About Me:
 🚀 Passionate Software Developer and DevOps Enginner
 
-🌱 I’m currently working on system designed for distributors and wholesalers to manage their sales operations.
+🌱 I’m currently building a system designed specifically for distributors and wholesalers to manage their sales operations more efficiently.
+👥 I’m looking to connect with distribution business owners who are open to collaborating or providing feedback as early adopters of this new product/startup.
+
+If you're a distributor or know someone in the space, I'd love to connect!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/huzefa.rana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranamuhammadhuzefa) [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17192834) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/huzefaranaa) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imhuzefarana@gmail.com)
