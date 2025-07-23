@@ -2,6 +2,7 @@
 🚀 Passionate Software Developer and DevOps Enginner
 
 🌱 I’m currently building a system designed specifically for distributors and wholesalers to manage their sales operations more efficiently.
+
 👥 I’m looking to connect with distribution business owners who are open to collaborating or providing feedback as early adopters of this new product/startup.
 
 If you're a distributor or know someone in the space, I'd love to connect!
