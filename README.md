@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Passionate Software Developer and DevOps Enginner
+🚀 Passionate Software Developer and DevOps Engineer
 
 🌱 I’m currently building a system designed specifically for distributors and wholesalers to manage their sales operations more efficiently.
 
