@@ -15,9 +15,10 @@ If you're a distributor or know someone in the space, I'd love to connect!
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=huzefarana&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=huzefarana&theme=dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=huzefarana&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huzefarana&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br/>
+[![](https://visitcount.itsvg.in/api?id=huzefarana&icon=1&color=1)](https://visitcount.itsvg.in)
 Markdown inspired by [Ayihan](http://github.com/au79912)
